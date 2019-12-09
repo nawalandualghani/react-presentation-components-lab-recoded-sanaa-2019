@@ -1,7 +1,7 @@
 // Code SimplerComponent Here
 import React, { Component } from "react";
 
-export default class SimpleComponent extends Component {
+export default class SimplerComponent extends Component {
 
   }
   render() {
