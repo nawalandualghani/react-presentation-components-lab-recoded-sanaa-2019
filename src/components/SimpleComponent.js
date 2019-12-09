@@ -5,9 +5,7 @@ export default class SimpleComponent extends Component {
   render() {
     return (
       <div>
-        {this.props.posts.map(post => (
-          <div>{post.title}</div>
-        ))}
+      
       </div>
     );
   }
