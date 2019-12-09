@@ -14,7 +14,8 @@ export default class SimpleComponent extends Component {
   }
   render() {
     return (
-      <div>
+      <div >
+      <button onClick={this.handleClick}>click</button>
       {this.state}
       </div>
     );
