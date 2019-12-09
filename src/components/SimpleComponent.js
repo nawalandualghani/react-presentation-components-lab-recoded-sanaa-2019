@@ -10,7 +10,7 @@ export default class SimpleComponent extends Component {
    };
  }
  handleClick = () => {
-    // Probably do some work to update the state
+  
   }
   render() {
     return (
