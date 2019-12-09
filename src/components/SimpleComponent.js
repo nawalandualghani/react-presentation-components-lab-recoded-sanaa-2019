@@ -9,6 +9,9 @@ export default class SimpleComponent extends Component {
      mood:'happy'
    };
  }
+ handleClick = () => {
+    // Probably do some work to update the state
+  }
   render() {
     return (
       <div>
