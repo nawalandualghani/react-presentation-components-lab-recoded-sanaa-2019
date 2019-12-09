@@ -7,7 +7,7 @@ export default class SimplerComponent extends Component {
   render() {
     return (
       <div >
-     <p> "I am just happy".</p>
+     <p> "I am just happy"</p>
       </div>
     );
   }
