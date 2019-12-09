@@ -14,7 +14,11 @@ export default class SimpleComponent extends Component {
    this.setState({
      this.mood:'sad'
    })
-
+else {
+  this.setState({
+    this.mood:'happy'
+  })
+}
   }
   render() {
     return (
