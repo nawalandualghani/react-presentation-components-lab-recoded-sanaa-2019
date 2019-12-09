@@ -6,7 +6,6 @@ export default class SimpleComponent extends Component {
    super();
 
    this.state = {
-     posts: []
    };
  }
   render() {
