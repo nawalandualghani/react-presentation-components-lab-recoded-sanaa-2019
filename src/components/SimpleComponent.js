@@ -6,6 +6,7 @@ export default class SimpleComponent extends Component {
    super();
 
    this.state = {
+     mood:'happy'
    };
  }
   render() {
